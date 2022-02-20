@@ -7,7 +7,7 @@ WaterMark.Parent = game:WaitForChild("CoreGui")
 WaterMark.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 EnderServers.Name = "EnderServers"
-EnderServers.Parent = AnimationChanger
+EnderServers.Parent = WaterMark
 EnderServers.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 EnderServers.BackgroundTransparency = 1.000
 EnderServers.Position = UDim2.new(0.0200892836, 0, 0.91974318, 0)
